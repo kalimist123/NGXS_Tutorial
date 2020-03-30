@@ -1,6 +1,6 @@
 # Ng8xs
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.18.
+Taken from this [tutorial] (https://appdividend.com/2018/07/03/angular-ngxs-tutorial-with-example-from-scratch/)
 
 ## Development server
 
